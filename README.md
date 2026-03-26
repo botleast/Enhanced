@@ -6,7 +6,7 @@ A Client mod for miniblox to enchance it visually
 
 Features:
 - Simple Shadows
-- Better Ambient Lighting
+- Better Ambient Lighting (Set the Material Texture: Standard to see the effect)
 - Freecam (Toggle by f4)
 - Switch Main Hand (Left/Right)
 - Camera Overhaul
