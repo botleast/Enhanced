@@ -1,5 +1,7 @@
 # Enhanced
 
+# by @BOT
+
 A Client mod for miniblox to enchance it visually
 
 Features:
